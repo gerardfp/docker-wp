@@ -14,5 +14,7 @@ Per exemple:
 ```
 produeixen:
 
-
+* Verd
+* Groc
+* Blau
 
